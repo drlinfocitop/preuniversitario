@@ -1,0 +1,102 @@
+{
+  "aestheticStyle": "default",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:hide-show-menu",
+      "name": "cMenu: Hide/show ",
+      "icon": "cMenu"
+    },
+    {
+      "id": "obsidian-banners:banners:addBanner",
+      "name": "Banners: Add/Change banner with local image",
+      "icon": "folder"
+    },
+    {
+      "id": "workspace:toggle-stacked-tabs",
+      "name": "Toggle stacked tabs",
+      "icon": "lucide-layers"
+    },
+    {
+      "id": "obsidian-mind-map:app:markmap-preview",
+      "name": "Mind Map: Preview the current note as a Mind Map",
+      "hotkeys": [],
+      "icon": "add-note-glyph"
+    },
+    {
+      "id": "obsidian-markmind:Toggle to markdown or mindmap",
+      "name": "obsidian markmind: Toggle markdown/mindmap mode",
+      "mobileOnly": false,
+      "icon": "bot-glyph"
+    },
+    {
+      "id": "obsidian-minimal-settings:cycle-minimal-table-width",
+      "name": "Minimal Theme Settings: Cycle between table width options",
+      "icon": "blocks"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-bold",
+      "name": "cMenu: Toggle bold",
+      "icon": "bold-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-highlight",
+      "name": "cMenu: Toggle highlight",
+      "icon": "highlight-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-wikilink",
+      "name": "cMenu: Add internal link",
+      "icon": "bracket-glyph"
+    },
+    {
+      "id": "cmenu-plugin:underline",
+      "name": "cMenu: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
+      "id": "cmenu-plugin:superscript",
+      "name": "cMenu: Toggle superscript",
+      "icon": "superscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:subscript",
+      "name": "cMenu: Toggle subscript",
+      "icon": "subscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-bullet-list",
+      "name": "cMenu: Toggle bullet",
+      "icon": "bullet-list-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-numbered-list",
+      "name": "cMenu: Toggle numbered list",
+      "icon": "number-list-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-checklist-status",
+      "name": "cMenu: Toggle checklist status",
+      "icon": "checkbox-glyph"
+    },
+    {
+      "id": "cmenu-plugin:codeblock",
+      "name": "cMenu: Toggle codeblock",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-blockquote",
+      "name": "cMenu: Toggle blockquote",
+      "icon": "quote-glyph"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 18
+}
